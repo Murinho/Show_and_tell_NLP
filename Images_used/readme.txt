@@ -1,0 +1,1 @@
+Here you should include the images that are used for training and testing the model. Ideally use the Flickr8k or Flickr16k dataset.
